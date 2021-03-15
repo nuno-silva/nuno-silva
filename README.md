@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm Nuno Silva,
-a [SysAdmin](https://en.wikipedia.org/wiki/System_administrator) at [IST](http://tecnico.ulisboa.pt/).
+former
+[SysAdmin](https://en.wikipedia.org/wiki/System_administrator) at [IST](http://tecnico.ulisboa.pt/).
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img title="top languages" align="right"
